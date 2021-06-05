@@ -1,0 +1,10 @@
+name: Test2
+version: ${project.version}
+main: de.oliver2455.test2.Main
+api-version: 1.16
+
+commands:
+  heal:
+    description:
+  mykill:
+      description:
